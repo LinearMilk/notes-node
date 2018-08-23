@@ -1,0 +1,22 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "a note taking app with node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinearMilk/notes-node.git"
+  },
+  "author": "Witold Henszel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LinearMilk/notes-node/issues"
+  },
+  "homepage": "https://github.com/LinearMilk/notes-node#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
